@@ -4,7 +4,7 @@
   <img src="aot.webp" alt="Tatsumi Banner" width="100%" />
 </p>
 
- <h2 align="center">"Beyond the sea is freedom".<br>"海の向こうには自由がある." <br></h2>
+ <h2 align="center">"Beyond the sea is freedom."<br>"海の向こうには自由がある." <br></h2>
 
 
 ### 🌸 About me
