@@ -1,51 +1,29 @@
-# Hi there! 👋 I'm Tatsumi! Nice to meet you (´▽`ʃ♡ƪ) ✨
+# 
 
 <p align="center">
-  <img src="https://images.alphacoders.com/131/1314954.png" alt="Tatsumi Banner" width="100%" />
+  <img src="aot.webp" alt="Tatsumi Banner" width="100%" />
 </p>
 
----
+ <h2 align="center">"Beyond the sea is freedom".<br>"海の向こうには自由がある." <br></h2>
 
-## 🔮 About me . . .
 
-<table>
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://media.tenor.com/kS9Z0X7G724AAAAM/bocchi-the-rock-bocchi.gif" width="150px" alt="Bocchi"/>
-      <br />
-      <sub><b>Hitori Gotoh ( Ò ω Ó ) 💞</b></sub>
-    </td>
-    <td width="70%" valign="top">
-      <br />
-      🔭 I’m currently working on building clean software and school web projects.<br /><br />
-      🌱 I’m currently learning JavaScript, HTML/CSS, Python, and SQL.<br /><br />
-      🚀 Future Aspirations: Exploring specialized IT paths like Cloud Engineering and DevOps.<br /><br />
-      🌐 Languages: Actively practicing English (TOEIC prep) and learning Japanese.<br /><br />
-      ⚡ Fun fact: Love tweaking system performance and playing open-world games!
-    </td>
-  </tr>
-</table>
+### 🌸 About me
+Hello, I'm Hải Đăng (Tatsumi). I currently learing at PTIT and I am a technology enthusiast and a student who loves building software and diving deep into computer systems.
 
----
+* 🚀 **Aspirations:** Learning how systems scale, optimizing environments, and looking towards paths like Cloud and DevOps.
+* 🗣️ **Languages:** Vietnamese, English and Japanese.
+* 🎮 **Interests:** Coding, system performance, light novel, manga and anime.
 
-## 🔬 Programming Languages & Tools
 
-### 💻 Tech Stack
-- **Languages & Web:** JavaScript, HTML5, CSS3, Python
-- **Databases:** MySQL (Workbench, Shell)
-- **Version Control:** Git, GitHub
+### 💻 Tech stack
 
----
+* **Languages:** JavaScript, Python, HTML/CSS, Java
+* **Databases:** MySQL, SQL Server
+* **Frameworks:** Next JS ,JSX
+* **Tools:** Git, VS code, Docker 
 
-## 📈 GitHub Stats
+### 🌐 You can find me on
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tatsumi1710&show_icons=true&theme=radial" alt="Tatsumi's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsumi1710&layout=compact&theme=radial" alt="Top Langs" width="48%" />
-</p>
 
----
 
-## 🤝 Connect with me
-- **Gmail:** [Your Email Here]
-- **Facebook:** [Your Facebook Link Here]
+
